@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def exception_check(a, b):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11687#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 20 Dec 2021 06:29:19 UTC
+record: -1
